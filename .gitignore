@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+.pytest_cache/
+output/
+# uv.lock is intentionally NOT ignored — commit it for reproducible installs

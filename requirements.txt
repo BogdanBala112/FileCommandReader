@@ -1,0 +1,3 @@
+# Dependencies are declared in pyproject.toml and managed by uv.
+# To generate a pip-compatible file from the lockfile:
+#   uv export --no-hashes > requirements.txt
